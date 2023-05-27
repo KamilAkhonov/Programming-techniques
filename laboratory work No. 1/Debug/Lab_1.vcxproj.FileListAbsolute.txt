@@ -1,0 +1,4 @@
+C:\Users\kamil\Desktop\Lab_1\Debug\Lab_1.exe
+C:\Users\kamil\Desktop\Lab_1\Debug\Lab_1.pdb
+C:\Users\kamil\Desktop\Lab_1\Проект\Debug\Lab_1.exe
+C:\Users\kamil\Desktop\Lab_1\Проект\Debug\Lab_1.pdb
