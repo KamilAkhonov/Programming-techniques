@@ -1,0 +1,7 @@
+C:\Users\kamil\Documents\КНЯЗЬ_ТП\Lab_5_TP\bin\Debug\Lab_5_TP.exe.config
+C:\Users\kamil\Documents\КНЯЗЬ_ТП\Lab_5_TP\bin\Debug\Lab_5_TP.exe
+C:\Users\kamil\Documents\КНЯЗЬ_ТП\Lab_5_TP\bin\Debug\Lab_5_TP.pdb
+C:\Users\kamil\Documents\КНЯЗЬ_ТП\Lab_5_TP\obj\Debug\Lab_5_TP.csproj.AssemblyReference.cache
+C:\Users\kamil\Documents\КНЯЗЬ_ТП\Lab_5_TP\obj\Debug\Lab_5_TP.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Documents\КНЯЗЬ_ТП\Lab_5_TP\obj\Debug\Lab_5_TP.exe
+C:\Users\kamil\Documents\КНЯЗЬ_ТП\Lab_5_TP\obj\Debug\Lab_5_TP.pdb
