@@ -1,0 +1,39 @@
+﻿  Lab_4_TechProg.cpp
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(257,162): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(257,131): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(257,100): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(257,69): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(258,184): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(258,147): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(258,110): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(258,73): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(262,150): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(262,118): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(262,88): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(262,62): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(303,72): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(303,62): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(303,52): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(303,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(304,47): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(305,47): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(307,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(307,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(326,136): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(326,109): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(326,82): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(326,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(333,33): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(361,72): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(361,62): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(361,52): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(361,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(362,47): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(363,47): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(365,52): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(365,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(377,140): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(377,113): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(377,86): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Lab_4_TechProg.cpp(377,59): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Lab_4_TechProg.vcxproj -> C:\Users\kamil\Documents\ЛР№4TechProg\Lab_4_TechProg\Debug\Lab_4_TechProg.exe
